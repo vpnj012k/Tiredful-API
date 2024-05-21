@@ -4,3 +4,4 @@ djangorestframework==3.7.3
 oauth==1.0.1
 oauthlib==2.0.6
 python-oauth2==1.0.1
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
